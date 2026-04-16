@@ -1,2 +1,2 @@
 # code.github.io
-Made to teach and help students.
+Study Circuit: A New way for Productivity.
